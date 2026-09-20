@@ -134,19 +134,6 @@ I specialize in constructing end-to-end web architectures, pairing clean TypeScr
 ### 📈 GitHub Analytics & Commit Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=jonathanzietsman&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" width="100%" alt="GitHub Overall Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanzietsman&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages Used" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanzietsman&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak Stats" />
 </div>
 
