@@ -134,14 +134,12 @@ I specialize in constructing end-to-end web architectures, pairing clean TypeScr
 ### 📈 GitHub Analytics & Commit Activity
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanzietsman&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak Stats" />
+</div>
+
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonathanzietsman&theme=tokyonight&hide_border=true" width="100%" alt="Jonathan's GitHub Activity Graph" />
   </p>
-
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanzietsman&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak Stats" />
-</div>
 
 ---
 
