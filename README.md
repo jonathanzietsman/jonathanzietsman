@@ -9,9 +9,9 @@
   <a href="https://vs-portfolio-snowy.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Portfolio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Live Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <!-- <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a> -->
   <a href="mailto:YOUR-EMAIL@EXAMPLE.COM">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
