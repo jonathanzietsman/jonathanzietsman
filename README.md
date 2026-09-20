@@ -23,7 +23,7 @@
   </p>
 
   <a href="#-flagship-projects"><b>Explore Projects ↓</b></a> • 
-  <a href="#-tech-stack--ecosystem"><b>View Tech Stack ↓</b></a>
+  <!--<a href="#-tech-stack--ecosystem"><b>View Tech Stack ↓</b></a>-->
 
 </div>
 
