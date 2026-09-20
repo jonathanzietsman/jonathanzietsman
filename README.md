@@ -147,7 +147,7 @@ I specialize in constructing end-to-end web architectures, pairing clean TypeScr
 
   <a href="https://vs-portfolio-snowy.vercel.app/"><b>Interactive Portfolio</b></a> • 
   <a href="mailto:YOUR-EMAIL@EXAMPLE.COM"><b>Direct Email</b></a> • 
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><b>LinkedIn Profile</b></a>
+  <!--<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><b>LinkedIn Profile</b></a>-->
 
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:007ACC&height=100&section=footer" width="100%" />
