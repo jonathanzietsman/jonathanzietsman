@@ -1,107 +1,167 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Jonathan Zietsman, full-stack software engineer" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00D2FF&height=220&section=header&text=Jonathan%20Zietsman&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Software%20Engineer&descSize=20&descAlignY=62" width="100%" alt="Jonathan Zietsman Header Banner" />
+
+  <br/>
+
+  <!-- Interactive Badges -->
+  <a href="https://vs-portfolio-snowy.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@EXAMPLE.COM">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br/><br/>
+
+  <p align="center">
+    ⚡ <b>Fast-tracking full-stack software engineering at CodeCollege</b> • <i>Building resilient, high-performance web applications & type-safe APIs.</i>
+  </p>
+
+  <a href="#-flagship-projects"><b>Explore Projects ↓</b></a> • 
+  <a href="#-tech-stack--ecosystem"><b>View Tech Stack ↓</b></a>
 
 </div>
 
-<br/>
+---
 
-<img src="./assets/h-01.svg" width="100%" alt="01 Core Systems" />
+### ⚡ Engineering Focus & Capabilities
 
-I build end-to-end web systems: clean **TypeScript / React** interfaces on top of robust **relational and NoSQL** backends, engineered to stay fast, consistent and secure under load.
+I specialize in constructing end-to-end web architectures, pairing clean TypeScript/React interfaces with robust relational backends.
 
-<img src="./assets/systems.svg" width="100%" alt="Core systems: architectural precision, API efficiency, secure operations" />
+* 🏗️ **Architectural Precision:** Designing atomic transaction workflows, schema migrations, and optimized database queries.
+* ⚡ **API Efficiency:** Engineering performant, type-safe REST and tRPC endpoints with end-to-end type safety.
+* 🔐 **Secure Operations:** Implementing role-based access control (RBAC), OAuth/NextAuth workflows, and token-based state security routines.
 
-<br/>
+---
 
-<img src="./assets/h-02.svg" width="100%" alt="02 Modules and stack" />
-
-<img src="./assets/modules.svg" width="100%" alt="Languages: TypeScript, JavaScript, Python, HTML5, CSS3. Frontend: React, Next.js, Redux Toolkit, Tailwind CSS. Backend: Node.js, Express, Django, GraphQL, tRPC. Data and auth: PostgreSQL, MongoDB, Prisma, Supabase, Firebase, NextAuth, JWT." />
-
-<br/>
-
-<img src="./assets/h-03.svg" width="100%" alt="03 Mission files" />
+### 🛠️ Tech Stack & Ecosystem
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <!-- TODO: point this at the real ApexPOS repo -->
-      <a href="https://github.com/jonathanzietsman/Web-Developer-Bootcamp-Project"><img src="./assets/file-apexpos.svg" width="100%" alt="ApexPOS: enterprise point of sale platform" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <!-- TODO: point this at the DevPulse repo -->
-      <a href="https://github.com/jonathanzietsman"><img src="./assets/file-devpulse.svg" width="100%" alt="DevPulse: real-time project and assignment dashboard" /></a>
+    <td width="20%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jonathanzietsman/Web-Programming-Bootcamp-Project"><img src="./assets/file-helpdesk.svg" width="100%" alt="Help-Desk Ticketing System: enterprise staff queue and support portal" /></a>
+    <td width="20%"><b>Frontend & Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
     </td>
-    <td width="50%" valign="top">
-      <!-- TODO: point this at the GraphQL Event Engine repo -->
-      <a href="https://github.com/jonathanzietsman"><img src="./assets/file-graphql.svg" width="100%" alt="GraphQL Event Engine: event booking and user API" /></a>
+  </tr>
+  <tr>
+    <td width="20%"><b>Backend & APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/tRPC-2563EB?style=flat-square&logo=trpc&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Databases & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     </td>
   </tr>
 </table>
 
-<details>
-<summary><b>&gt; ApexPOS system architecture (expand)</b></summary>
+---
+
+### 🚀 Flagship Projects
 
 <br/>
 
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#06222b','primaryBorderColor':'#22e5ff','primaryTextColor':'#cfe8ff','lineColor':'#22e5ff','clusterBkg':'#04070d','clusterBorder':'#12324a'}}}%%
-flowchart LR
-    subgraph Client["BROWSER"]
-        UI["Next.js + Tailwind UI"]
-        Q["Offline action queue"]
-    end
-    subgraph Server["T3 STACK"]
-        R["tRPC routers"]
-        P["Prisma ORM"]
-    end
-    DB[("Supabase PostgreSQL")]
-
-    UI -->|"typed calls"| R
-    UI --> Q
-    Q -->|"sync on reconnect"| R
-    R --> P
-    P -->|"atomic transactions"| DB
-```
-
-</details>
+<!-- Project 1: ApexPOS -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🛒 ApexPOS — Enterprise Point of Sale Platform</h3>
+      <p><i>Full T3 Stack architecture handling multi-tenant sales, inventory management, and shift reporting.</i></p>
+      <ul>
+        <li><b>Atomic Database Transactions:</b> Guaranteed data consistency across active sales and stock updates during fast-paced register operations.</li>
+        <li><b>Offline Resilience:</b> Client-side action queueing paired with automated background sync when connectivity restores.</li>
+        <li><b>Type-Safe Infrastructure:</b> End-to-end type safety spanning tRPC endpoints, Prisma ORM schemas, and Supabase PostgreSQL.</li>
+      </ul>
+      <p><b>Tech Stack:</b> <code>Next.js</code> • <code>TypeScript</code> • <code>tRPC</code> • <code>Prisma</code> • <code>Supabase (PostgreSQL)</code> • <code>Tailwind CSS</code></p>
+      <p>
+        <a href="https://github.com/jonathanzietsman/Web-Developer-Bootcamp-Project"><b>💻 View Repository »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="./assets/h-04.svg" width="100%" alt="04 Telemetry" />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=jonathanzietsman&background=04070D&ring=22E5FF&fire=FF3DF0&currStreakLabel=22E5FF&sideLabels=CFE8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5B7A99&border=12324A&stroke=12324A&border_radius=0" width="49%" alt="Streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanzietsman&layout=compact&bg_color=04070d&title_color=22e5ff&text_color=cfe8ff&border_color=12324a&border_radius=0" width="49%" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathanzietsman&show_icons=true&count_private=true&bg_color=04070d&title_color=22e5ff&text_color=cfe8ff&icon_color=ff3df0&ring_color=22e5ff&border_color=12324a&border_radius=0" width="60%" alt="GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonathanzietsman&bg_color=04070d&color=22e5ff&line=ff3df0&point=ffffff&area=true&area_color=22e5ff&hide_border=true&title_color=22e5ff&custom_title=Contribution%20Telemetry" width="100%" alt="Contribution activity graph" />
-</div>
-
-<br/>
-
-<img src="./assets/h-05.svg" width="100%" alt="05 Open comms" />
-
-<div align="center">
-  <a href="https://vs-portfolio-snowy.vercel.app/"><img src="./assets/btn-portfolio.svg" width="32%" alt="Portfolio" /></a>
-  <!-- TODO: replace YOUR-LINKEDIN-USERNAME -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="./assets/btn-linkedin.svg" width="32%" alt="LinkedIn" /></a>
-  <!-- TODO: replace YOUR-EMAIL@EXAMPLE.COM -->
-  <a href="mailto:YOUR-EMAIL@EXAMPLE.COM"><img src="./assets/btn-email.svg" width="32%" alt="Email" /></a>
-</div>
+<!-- Project 2: Help-Desk Ticketing System -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🎟️ Help-Desk Ticketing System — Enterprise Staff Queue & Support Portal</h3>
+      <p><i>Full-stack support ticket lifecycle manager featuring real-time routing queues and employee dashboards.</i></p>
+      <ul>
+        <li><b>Role-Based Access Control (RBAC):</b> Granular permission rules separating staff queue management routines from standard end-user submissions.</li>
+        <li><b>Django Architecture:</b> Robust backend data models, form validations, dynamic routing, and administration dashboards.</li>
+        <li><b>Production Deployment:</b> Hosted and managed via PythonAnywhere environments.</li>
+      </ul>
+      <p><b>Tech Stack:</b> <code>Django</code> • <code>Python</code> • <code>Bootstrap</code> • <code>SQLite/PostgreSQL</code> • <code>PythonAnywhere</code></p>
+      <p>
+        <a href="https://github.com/jonathanzietsman/Web-Programming-Bootcamp-Project"><b>🚀 View Repository & Demo »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
+---
+
+### 📈 GitHub Analytics & Commit Activity
+
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Transmission complete. Let's build something scalable." />
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=jonathanzietsman&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" width="100%" alt="GitHub Overall Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanzietsman&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages Used" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanzietsman&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <h3>🤝 Let's Connect & Build</h3>
+  <p>I am always open to discussing web application architecture, API optimization, or full-stack software opportunities.</p>
+  
+  <br/>
+
+  <a href="https://vs-portfolio-snowy.vercel.app/"><b>Interactive Portfolio</b></a> • 
+  <a href="mailto:YOUR-EMAIL@EXAMPLE.COM"><b>Direct Email</b></a> • 
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><b>LinkedIn Profile</b></a>
+
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:007ACC&height=100&section=footer" width="100%" />
 </div>
