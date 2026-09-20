@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="1200" height="64" role="img" aria-label="Section 02: MODULES // STACK">
+<defs><filter id="g" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<path d="M16.0,10.0 L78.0,10.0 L78.0,42.0 L66.0,54.0 L4.0,54.0 L4.0,22.0 Z" fill="#ff3df0"><animate attributeName="fill-opacity" values="1;0.75;1" dur="2.6s" repeatCount="indefinite"/></path>
+<text x="41" y="42" text-anchor="middle" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="26" font-weight="700" fill="#04070d">02</text>
+<text x="100" y="42" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="27" font-weight="800" text-anchor="start" textLength="336" lengthAdjust="spacingAndGlyphs" fill="#ff3df0" opacity="0.75"><animateTransform attributeName="transform" type="translate" values="0 0;0 0;-6 0;5 0;0 0;4 -1;0 0;0 0" keyTimes="0;0.86;0.87;0.89;0.90;0.93;0.94;1" dur="8s" repeatCount="indefinite"/>MODULES // STACK</text><text x="100" y="42" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="27" font-weight="800" text-anchor="start" textLength="336" lengthAdjust="spacingAndGlyphs" fill="#22e5ff" opacity="0.75"><animateTransform attributeName="transform" type="translate" values="0 0;0 0;5 0;-4 1;0 0;-5 0;0 0;0 0" keyTimes="0;0.86;0.87;0.89;0.90;0.93;0.94;1" dur="8s" repeatCount="indefinite"/>MODULES // STACK</text><text x="100" y="42" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="27" font-weight="800" text-anchor="start" textLength="336" lengthAdjust="spacingAndGlyphs" fill="#cfe8ff" >MODULES // STACK</text>
+<line x1="458" y1="32" x2="1010" y2="32" stroke="#ff3df0" stroke-opacity="0.3"/>
+<line x1="458" y1="27" x2="458" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="478" y1="27" x2="478" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="498" y1="27" x2="498" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="518" y1="27" x2="518" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="538" y1="27" x2="538" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="558" y1="27" x2="558" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="578" y1="27" x2="578" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="598" y1="27" x2="598" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="618" y1="27" x2="618" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="638" y1="27" x2="638" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="658" y1="27" x2="658" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="678" y1="27" x2="678" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="698" y1="27" x2="698" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="718" y1="27" x2="718" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="738" y1="27" x2="738" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="758" y1="27" x2="758" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="778" y1="27" x2="778" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="798" y1="27" x2="798" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="818" y1="27" x2="818" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="838" y1="27" x2="838" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="858" y1="27" x2="858" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="878" y1="27" x2="878" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="898" y1="27" x2="898" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="918" y1="27" x2="918" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="938" y1="27" x2="938" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="958" y1="27" x2="958" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="978" y1="27" x2="978" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="998" y1="27" x2="998" y2="37" stroke="#ff3df0" stroke-opacity="0.25"/>
+<line x1="458" y1="32" x2="548" y2="32" stroke="#ff3df0" stroke-width="3" filter="url(#g)"><animateTransform attributeName="transform" type="translate" values="0 0;462 0" dur="3.2s" repeatCount="indefinite"/></line>
+<circle cx="1028" cy="32" r="4" fill="#3dffa0"><animate attributeName="opacity" values="1;0.2;1" dur="1.3s" repeatCount="indefinite"/></circle>
+<text x="1042" y="37" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="13" fill="#5b7a99" textLength="150" lengthAdjust="spacing">SEC.02 // ONLINE</text>
+</svg>

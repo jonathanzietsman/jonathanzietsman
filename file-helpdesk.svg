@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 388" width="580" height="388" role="img" aria-label="Help-Desk Ticketing project file">
+<defs><filter id="file-helpdesk-g" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="file-helpdesk-c"><path d="M2.0,2.0 L546.0,2.0 L578.0,34.0 L578.0,386.0 L34.0,386.0 L2.0,354.0 Z"/></clipPath>
+<pattern id="file-helpdesk-dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#3dffa0" opacity="0.18"/></pattern>
+<linearGradient id="file-helpdesk-s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3dffa0" stop-opacity="0"/><stop offset="0.5" stop-color="#3dffa0" stop-opacity="0.17"/><stop offset="1" stop-color="#3dffa0" stop-opacity="0"/></linearGradient>
+</defs>
+<path d="M2.0,2.0 L546.0,2.0 L578.0,34.0 L578.0,386.0 L34.0,386.0 L2.0,354.0 Z" fill="#060b14" stroke="#3dffa0" stroke-opacity="0.35" stroke-width="1.5"/>
+<g clip-path="url(#file-helpdesk-c)"><rect width="580" height="388" fill="url(#file-helpdesk-dots)"/><rect x="0" y="-60" width="580" height="60" fill="url(#file-helpdesk-s)"><animateTransform attributeName="transform" type="translate" values="0 0;0 448" dur="4.5s" repeatCount="indefinite"/></rect></g>
+<path d="M2.0,2.0 L546.0,2.0 L578.0,34.0 L578.0,386.0 L34.0,386.0 L2.0,354.0 Z" fill="none" stroke="#3dffa0" stroke-width="3" stroke-linecap="round" stroke-dasharray="282.4 1600.1" filter="url(file-helpdesk-g)"><animate attributeName="stroke-dashoffset" values="0.0;-1882.5" dur="6s" repeatCount="indefinite"/></path>
+<path d="M31.0,22.0 L116.0,22.0 L116.0,43.0 L109.0,50.0 L24.0,50.0 L24.0,29.0 Z" fill="#3dffa0"/><text x="70" y="42" text-anchor="middle" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="14" font-weight="700" fill="#04070d">PRJ-03</text>
+<text x="132" y="41" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="12.5" fill="#5b7a99">// CLASS: SUPPORT PORTAL</text>
+<rect x="472" width="5" fill="#3dffa0" opacity="0.85"><animate attributeName="height" values="6;10;8;6" dur="1.10s" repeatCount="indefinite"/><animate attributeName="y" values="42;38;40;42" dur="1.10s" repeatCount="indefinite"/></rect>
+<rect x="481" width="5" fill="#3dffa0" opacity="0.85"><animate attributeName="height" values="20;16;14;20" dur="1.27s" repeatCount="indefinite"/><animate attributeName="y" values="28;32;34;28" dur="1.27s" repeatCount="indefinite"/></rect>
+<rect x="490" width="5" fill="#3dffa0" opacity="0.85"><animate attributeName="height" values="10;8;6;10" dur="1.44s" repeatCount="indefinite"/><animate attributeName="y" values="38;40;42;38" dur="1.44s" repeatCount="indefinite"/></rect>
+<rect x="499" width="5" fill="#3dffa0" opacity="0.85"><animate attributeName="height" values="16;14;20;16" dur="1.61s" repeatCount="indefinite"/><animate attributeName="y" values="32;34;28;32" dur="1.61s" repeatCount="indefinite"/></rect>
+<rect x="508" width="5" fill="#3dffa0" opacity="0.85"><animate attributeName="height" values="8;6;10;8" dur="1.78s" repeatCount="indefinite"/><animate attributeName="y" values="40;42;38;40" dur="1.78s" repeatCount="indefinite"/></rect>
+<rect x="517" width="5" fill="#3dffa0" opacity="0.85"><animate attributeName="height" values="14;20;16;14" dur="1.95s" repeatCount="indefinite"/><animate attributeName="y" values="34;28;32;34" dur="1.95s" repeatCount="indefinite"/></rect>
+<text x="26" y="108" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="33" font-weight="800" text-anchor="start" textLength="370.5" lengthAdjust="spacingAndGlyphs" fill="#ff3df0" opacity="0.75"><animateTransform attributeName="transform" type="translate" values="0 0;0 0;-6 0;5 0;0 0;4 -1;0 0;0 0" keyTimes="0;0.86;0.87;0.89;0.90;0.93;0.94;1" dur="8s" repeatCount="indefinite"/>Help-Desk Ticketing</text><text x="26" y="108" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="33" font-weight="800" text-anchor="start" textLength="370.5" lengthAdjust="spacingAndGlyphs" fill="#22e5ff" opacity="0.75"><animateTransform attributeName="transform" type="translate" values="0 0;0 0;5 0;-4 1;0 0;-5 0;0 0;0 0" keyTimes="0;0.86;0.87;0.89;0.90;0.93;0.94;1" dur="8s" repeatCount="indefinite"/>Help-Desk Ticketing</text><text x="26" y="108" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="33" font-weight="800" text-anchor="start" textLength="370.5" lengthAdjust="spacingAndGlyphs" fill="#ffffff" >Help-Desk Ticketing</text>
+<text x="28" y="134" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="13.5" fill="#5b7a99">Enterprise Staff Queue &amp; Support Portal</text>
+<path d="M32.0,152.0 L91.0,152.0 L91.0,174.0 L85.0,180.0 L26.0,180.0 L26.0,158.0 Z" fill="#3dffa0" fill-opacity="0.09" stroke="#3dffa0" stroke-opacity="0.55"/><text x="58.5" y="171" text-anchor="middle" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="12.5" font-weight="700" fill="#cfe8ff">DJANGO</text>
+<path d="M103.0,152.0 L162.0,152.0 L162.0,174.0 L156.0,180.0 L97.0,180.0 L97.0,158.0 Z" fill="#3dffa0" fill-opacity="0.09" stroke="#3dffa0" stroke-opacity="0.55"/><text x="129.5" y="171" text-anchor="middle" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="12.5" font-weight="700" fill="#cfe8ff">PYTHON</text>
+<path d="M174.0,152.0 L255.5,152.0 L255.5,174.0 L249.5,180.0 L168.0,180.0 L168.0,158.0 Z" fill="#3dffa0" fill-opacity="0.09" stroke="#3dffa0" stroke-opacity="0.55"/><text x="211.8" y="171" text-anchor="middle" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="12.5" font-weight="700" fill="#cfe8ff">BOOTSTRAP</text>
+<path d="M267.5,152.0 L356.5,152.0 L356.5,174.0 L350.5,180.0 L261.5,180.0 L261.5,158.0 Z" fill="#3dffa0" fill-opacity="0.09" stroke="#3dffa0" stroke-opacity="0.55"/><text x="309.0" y="171" text-anchor="middle" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="12.5" font-weight="700" fill="#cfe8ff">POSTGRESQL</text>
+<path d="M368.5,152.0 L487.5,152.0 L487.5,174.0 L481.5,180.0 L362.5,180.0 L362.5,158.0 Z" fill="#3dffa0" fill-opacity="0.09" stroke="#3dffa0" stroke-opacity="0.55"/><text x="425.0" y="171" text-anchor="middle" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="12.5" font-weight="700" fill="#cfe8ff">PYTHONANYWHERE</text>
+<g><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04;0.09;0.92;0.97;1" dur="9s" repeatCount="indefinite"/>
+<path d="M28,204 l9,5.5 l-9,5.5 Z" fill="#3dffa0"/>
+<text x="48" y="214" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#cfe8ff">Full-stack ticket lifecycle manager with employee dashboards</text>
+<text x="48" y="235" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#cfe8ff">and routing queues.</text>
+</g>
+<g><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.13;0.18;0.92;0.97;1" dur="9s" repeatCount="indefinite"/>
+<path d="M28,257 l9,5.5 l-9,5.5 Z" fill="#3dffa0"/>
+<text x="48" y="267" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#cfe8ff">Role-based authorization separating staff from general</text>
+<text x="48" y="288" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#cfe8ff">users.</text>
+</g>
+<g><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.22;0.27;0.92;0.97;1" dur="9s" repeatCount="indefinite"/>
+<path d="M28,310 l9,5.5 l-9,5.5 Z" fill="#3dffa0"/>
+<text x="48" y="320" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#cfe8ff">Live deployment managed on PythonAnywhere.</text>
+</g>
+<line x1="26" y1="340" x2="554" y2="340" stroke="#3dffa0" stroke-opacity="0.3"/>
+<text x="28" y="362" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="14" font-weight="700" fill="#3dffa0" textLength="170" lengthAdjust="spacing">LAUNCH LIVE DEMO</text>
+<path d="M0,0 l8,7 l-8,7 M9,0 l8,7 l-8,7" fill="none" stroke="#3dffa0" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" transform="translate(206 349)"><animateTransform attributeName="transform" type="translate" values="206 349;215 349;206 349" dur="1.2s" repeatCount="indefinite"/></path>
+<text x="550" y="362" text-anchor="end" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="11.5" fill="#5b7a99">0xAFD1 // PRJ-03</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 258" width="1200" height="258" role="img" aria-label="Core systems: architectural precision, API efficiency, secure operations">
+<defs><filter id="g" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<path d="M26.0,4.0 L382.0,4.0 L382.0,230.0 L358.0,254.0 L2.0,254.0 L2.0,28.0 Z" fill="#22e5ff" fill-opacity="0.045" stroke="#22e5ff" stroke-opacity="0.35" stroke-width="1.5"/>
+<path d="M26.0,4.0 L382.0,4.0 L382.0,230.0 L358.0,254.0 L2.0,254.0 L2.0,28.0 Z" fill="none" stroke="#22e5ff" stroke-width="3" stroke-linecap="round" stroke-dasharray="147.8 1084.1" filter="url(g)"><animate attributeName="stroke-dashoffset" values="0.0;-1231.9" dur="7s" repeatCount="indefinite"/></path>
+<g transform="translate(36 34)" fill="none" stroke="#22e5ff" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round" filter="url(#g)">
+<path d="M24,0 L46,10 L24,20 L2,10 Z" opacity="1.0"><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></path>
+<path d="M24,14 L46,24 L24,34 L2,24 Z" opacity="0.75"><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.4s" begin="-0.3s" repeatCount="indefinite"/></path>
+<path d="M24,28 L46,38 L24,48 L2,38 Z" opacity="0.5"><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.4s" begin="-0.6s" repeatCount="indefinite"/></path>
+</g>
+<text x="104" y="70" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="12" fill="#22e5ff" opacity="0.8">MODULE 01</text>
+<text x="36" y="128" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="800" fill="#cfe8ff" textLength="308" lengthAdjust="spacingAndGlyphs">ARCHITECTURAL PRECISION</text>
+<text x="36" y="158" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#5b7a99">Atomic transaction workflows, schema</text>
+<text x="36" y="180" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#5b7a99">migrations and optimized database</text>
+<text x="36" y="202" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#5b7a99">queries.</text>
+<rect x="36" y="230" width="60" height="3" fill="#22e5ff"><animate attributeName="width" values="20;284;20" dur="5s" repeatCount="indefinite"/></rect>
+<path d="M434.0,4.0 L790.0,4.0 L790.0,230.0 L766.0,254.0 L410.0,254.0 L410.0,28.0 Z" fill="#ff3df0" fill-opacity="0.045" stroke="#ff3df0" stroke-opacity="0.35" stroke-width="1.5"/>
+<path d="M434.0,4.0 L790.0,4.0 L790.0,230.0 L766.0,254.0 L410.0,254.0 L410.0,28.0 Z" fill="none" stroke="#ff3df0" stroke-width="3" stroke-linecap="round" stroke-dasharray="147.8 1084.1" filter="url(g)"><animate attributeName="stroke-dashoffset" values="-300.0;-1531.9" dur="8s" repeatCount="indefinite"/></path>
+<g transform="translate(444 34)" fill="none" stroke="#ff3df0" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round" filter="url(#g)">
+<path d="M30,0 L6,32 H24 L18,58 L44,24 H26 Z"><animate attributeName="stroke-opacity" values="1;0.4;1;0.4;1" keyTimes="0;0.1;0.2;0.3;1" dur="3s" repeatCount="indefinite"/></path>
+</g>
+<text x="512" y="70" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="12" fill="#ff3df0" opacity="0.8">MODULE 02</text>
+<text x="444" y="128" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="800" fill="#cfe8ff" textLength="188" lengthAdjust="spacingAndGlyphs">API EFFICIENCY</text>
+<text x="444" y="158" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#5b7a99">Performant REST, GraphQL with DataLoader</text>
+<text x="444" y="180" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#5b7a99">batching, and type-safe tRPC endpoints.</text>
+<rect x="444" y="230" width="60" height="3" fill="#ff3df0"><animate attributeName="width" values="20;284;20" dur="6s" repeatCount="indefinite"/></rect>
+<path d="M842.0,4.0 L1198.0,4.0 L1198.0,230.0 L1174.0,254.0 L818.0,254.0 L818.0,28.0 Z" fill="#3dffa0" fill-opacity="0.045" stroke="#3dffa0" stroke-opacity="0.35" stroke-width="1.5"/>
+<path d="M842.0,4.0 L1198.0,4.0 L1198.0,230.0 L1174.0,254.0 L818.0,254.0 L818.0,28.0 Z" fill="none" stroke="#3dffa0" stroke-width="3" stroke-linecap="round" stroke-dasharray="147.8 1084.1" filter="url(g)"><animate attributeName="stroke-dashoffset" values="-600.0;-1831.9" dur="9s" repeatCount="indefinite"/></path>
+<g transform="translate(852 34)" fill="none" stroke="#3dffa0" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round" filter="url(#g)">
+<path d="M24,0 L46,9 V28 C46,44 36,54 24,60 C12,54 2,44 2,28 V9 Z"/>
+<path d="M14,30 L22,38 L35,22"><animate attributeName="stroke-dasharray" values="0 60;60 0" dur="2s" repeatCount="indefinite"/></path>
+</g>
+<text x="920" y="70" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="12" fill="#3dffa0" opacity="0.8">MODULE 03</text>
+<text x="852" y="128" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="800" fill="#cfe8ff" textLength="228" lengthAdjust="spacingAndGlyphs">SECURE OPERATIONS</text>
+<text x="852" y="158" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#5b7a99">Role-based access control, OAuth and</text>
+<text x="852" y="180" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#5b7a99">NextAuth flows, and token</text>
+<text x="852" y="202" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#5b7a99">authentication.</text>
+<rect x="852" y="230" width="60" height="3" fill="#3dffa0"><animate attributeName="width" values="20;284;20" dur="7s" repeatCount="indefinite"/></rect>
+</svg>

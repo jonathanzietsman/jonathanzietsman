@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="1200" height="64" role="img" aria-label="Section 01: CORE SYSTEMS">
+<defs><filter id="g" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<path d="M16.0,10.0 L78.0,10.0 L78.0,42.0 L66.0,54.0 L4.0,54.0 L4.0,22.0 Z" fill="#22e5ff"><animate attributeName="fill-opacity" values="1;0.75;1" dur="2.6s" repeatCount="indefinite"/></path>
+<text x="41" y="42" text-anchor="middle" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="26" font-weight="700" fill="#04070d">01</text>
+<text x="100" y="42" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="27" font-weight="800" text-anchor="start" textLength="252" lengthAdjust="spacingAndGlyphs" fill="#ff3df0" opacity="0.75"><animateTransform attributeName="transform" type="translate" values="0 0;0 0;-6 0;5 0;0 0;4 -1;0 0;0 0" keyTimes="0;0.86;0.87;0.89;0.90;0.93;0.94;1" dur="8s" repeatCount="indefinite"/>CORE SYSTEMS</text><text x="100" y="42" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="27" font-weight="800" text-anchor="start" textLength="252" lengthAdjust="spacingAndGlyphs" fill="#22e5ff" opacity="0.75"><animateTransform attributeName="transform" type="translate" values="0 0;0 0;5 0;-4 1;0 0;-5 0;0 0;0 0" keyTimes="0;0.86;0.87;0.89;0.90;0.93;0.94;1" dur="8s" repeatCount="indefinite"/>CORE SYSTEMS</text><text x="100" y="42" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="27" font-weight="800" text-anchor="start" textLength="252" lengthAdjust="spacingAndGlyphs" fill="#cfe8ff" >CORE SYSTEMS</text>
+<line x1="374" y1="32" x2="1010" y2="32" stroke="#22e5ff" stroke-opacity="0.3"/>
+<line x1="374" y1="27" x2="374" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="394" y1="27" x2="394" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="414" y1="27" x2="414" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="434" y1="27" x2="434" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="454" y1="27" x2="454" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="474" y1="27" x2="474" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="494" y1="27" x2="494" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="514" y1="27" x2="514" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="534" y1="27" x2="534" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="554" y1="27" x2="554" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="574" y1="27" x2="574" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="594" y1="27" x2="594" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="614" y1="27" x2="614" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="634" y1="27" x2="634" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="654" y1="27" x2="654" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="674" y1="27" x2="674" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="694" y1="27" x2="694" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="714" y1="27" x2="714" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="734" y1="27" x2="734" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="754" y1="27" x2="754" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="774" y1="27" x2="774" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="794" y1="27" x2="794" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="814" y1="27" x2="814" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="834" y1="27" x2="834" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="854" y1="27" x2="854" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="874" y1="27" x2="874" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="894" y1="27" x2="894" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="914" y1="27" x2="914" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="934" y1="27" x2="934" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="954" y1="27" x2="954" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="974" y1="27" x2="974" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="994" y1="27" x2="994" y2="37" stroke="#22e5ff" stroke-opacity="0.25"/>
+<line x1="374" y1="32" x2="464" y2="32" stroke="#22e5ff" stroke-width="3" filter="url(#g)"><animateTransform attributeName="transform" type="translate" values="0 0;546 0" dur="3.2s" repeatCount="indefinite"/></line>
+<circle cx="1028" cy="32" r="4" fill="#3dffa0"><animate attributeName="opacity" values="1;0.2;1" dur="1.3s" repeatCount="indefinite"/></circle>
+<text x="1042" y="37" font-family="'Courier New', 'SF Mono', Consolas, Menlo, monospace" font-size="13" fill="#5b7a99" textLength="150" lengthAdjust="spacing">SEC.01 // ONLINE</text>
+</svg>
